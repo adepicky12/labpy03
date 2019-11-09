@@ -11,7 +11,7 @@
 * 3. Pengulangan akan berhenti ketika anda memasukkan angka 0 (nol).
 * 4. Lalu akan ditampilkan bilangan terbesar dari semua bilangan yang anda input. Untuk mencari bilangan terbesar dari banyaknya *
 * bilangan menggunakan fungsi max. Berikut hasilnya :
-![latihan 2](https://user-images.githubusercontent.com/57026867/68522909-1832c180-02e4-11ea-85cd-880f3215f8e3.jpg)
+![latihan 2 yang bener](https://user-images.githubusercontent.com/57026867/68523134-36e68780-02e7-11ea-85e5-55a9ce960684.jpg)
 
 # Penjelasan program1
 * 1. Modal awal pengusaha sebesar 100000000
